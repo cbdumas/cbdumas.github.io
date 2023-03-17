@@ -23,7 +23,8 @@ email: cbdumas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Exploration without expectation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.cbdumas.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: cbdumas.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cbdumas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  cbdumas
 
