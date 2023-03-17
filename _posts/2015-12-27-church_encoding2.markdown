@@ -111,7 +111,7 @@ Looking at the constructors for NatC:
 zero :: NatC
 zero = NatC $ \x f -> x
 
-succ :: NatC -> NatC -> NatC
+succ :: NatC -> NatC
 succ (NatC n) = NatC $ \x f -> f (n x f) 
 ```
 
