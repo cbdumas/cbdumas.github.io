@@ -4,7 +4,7 @@ title: Church-encoded datatypes in Haskell, part 2
 date: December 27, 2015
 ---
 
-[Last time]({% post_url 2015-12-19-church_encoding %}) we covered Haskells Maybe type encoded as a funciton.
+[Last time]({% post_url 2015-12-19-church_encoding %}) we covered Haskells Maybe type encoded as a function.
 This post will introduce two recursively defined structures, lists and natural numbers. Here I give
 the normal ADT representation of a list, and a corresponding Church encoding.
 
@@ -79,7 +79,7 @@ foldr k z = go
 
 So if we want to define the Foldable instance for ListC, we need only define foldr as follows:
 ```haskell
-instance Folable ListC where
+instance Foldable ListC where
     foldr f z (ListC l) = l z f
 
 -- and a couple of useful instances follow from that directly:
