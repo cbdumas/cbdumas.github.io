@@ -65,8 +65,9 @@ For most of this week we were taking turns sleeping on the couch next to the cra
 On Monday of week two Nora attended her first of six weekly 'puppy kindergarten' classes.
 She had a great time playing with the other dogs:
 
-<video controls autoplay muted width="100%">
+<video loop controls autoplay muted width="100%">
   <source src="/assets/Nora_Miles.webm" type="video/webm">
+  <source src="/assets/Nora_Miles_HEVC.mp4" type='video/mp4; codecs="hevc1"'>
 </video>
 
 Her prime socialization period is winding down in the next few weeks so we wanted to get her around other puppys to learn good manners when playing.
