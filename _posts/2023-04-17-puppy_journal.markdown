@@ -89,7 +89,8 @@ We did make it through most of week two with her only having access to plush che
 
 This week Harmony was away from Wednesday to Sunday, meaning I'd have to manage Nora and the cats on my own.
 By this time we had made enough progress that I wasn't too worried, though I was a little apprehensive about finding enough time for sleep and work.
-She ended up sticking to the 11-7 sleep schedule fairly well, although on most mornings the cats
+She ended up sticking to the 11-7 sleep schedule fairly well, although on most mornings the cats woke up around 5:30 for their breakfast,
+which woke Nora up, which meant everybody was up 😴
 
 ### Sleep
 Our current sleeping arrangement has her sleeping in her crate from 11:00 PM to 7:00 AM, which she can usually do without any issues.
