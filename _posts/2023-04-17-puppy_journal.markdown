@@ -5,7 +5,7 @@ date: April 17, 2023
 ---
 We got a puppy! This is Nora:
 
-![Puppy Tax](/assets/nora_pup.jpg)
+![Puppy Tax](/assets/nora_pup.webp)
 
 We got her from PAWS in Lynwood on Friday March 24, 2023.
 The shelter told us she was 10 weeks old at that time, and she weighed about 18 pounds.
@@ -65,7 +65,7 @@ For most of this week we were taking turns sleeping on the couch next to the cra
 On Monday of week two Nora attended her first of six weekly 'puppy kindergarten' classes.
 She had a great time playing with the other dogs:
 
-<video loop controls autoplay muted width="100%">
+<video loop controls autoplay muted playsinline width="100%">
   <source src="/assets/Nora_Miles.webm" type="video/webm">
   <source src="/assets/Nora_Miles_HEVC.mp4" type='video/mp4; codecs="hevc1"'>
 </video>
