@@ -1,0 +1,46 @@
+---
+layout: post
+title: Jury Duty
+date: April 28, 2023
+---
+
+For three weeks in the month of March this year I served on a jury for a civil trial in King County Superior Court, for judge Ken Schubert.
+This was my first time serving on a jury so I wanted to jot down some notes on the experience.
+
+## Jury Selection (Voir Dire)
+Jury selection took place via Zoom call (a holdover from COVID-19 pandemic protocols) on Wednesday, March 1.
+Altogether there were maybe 15 or 20 potential jurors on the call, the judge, the plaintiff, and the defendants attorney.
+All jurors were expected to be on camera at all times, not typing or texting or looking away.
+The judge did see me typing a message to my wife at one point 
+(my laptop is a 2018 model Dell XPS 13, which has the webcam below the screen, so my hands were right on camera)
+and he immediately mentioned it and asked for my full attention.
+As selection began we were given a one sentence overview of the case, so all we knew at this
+point was that the case involved a landlord-tenant relationship, and a dispute over unpaid labor.
+
+
+The bulk of the discussion regarded whether or not we all felt that we could be impartial jurors given the subject of the case.
+As a frequent *30 Rock* re-watcher, I expected much more Liz Lemon behavior:
+<video loop="" autoplay="true" preload="auto" playsinline="true" width="546">
+    <source src="/assets/lizlemon-30rock.webm" type="video/webm">
+    <source src="/assets/lizlemon-30rock.mp4" type="video/mp4">
+</video>
+But most people seemed to take the proceedings quite seriously.
+Two people on the session requested to be excused from jury duty due to hardship, both of which
+were essentially work related travel issues as I recall.
+On the call the judge seemed very unlikely to consider their cases to be valid excuses from jury duty, which the two jurors seeking to be excused were very vocally upset about.
+There were maybe a couple of other people who were clearly trying to get excused for cause, one of whom succeeded.
+At the end of the session we all still had no idea if we would be selected, which kept my team at work nicely in suspense.
+
+## Selected
+The next day at around 3:00 PM I got an email saying I had been selected, and to report to the court house
+in person on Monday, March 6.
+We were informed that the trial was to take two weeks, with a one week recess in the middle.
+A typical day of trial starts at 8:45 in the jury assembly room, with trial starting at 9:00.
+We took lunch from noon to 1:15, during which time we were allowed to leave the jury room and
+find lunch somewhere nearby downtown.
+We also took a 15 minute break in the morning and afternoon, during which time we were not allowed
+to leave the jury room.
+
+## The Jury
+I found the social experience of being a juror to be very odd for the course of the trial.
+Everyone on the jury was very friendly 
